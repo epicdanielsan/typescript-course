@@ -1,3 +1,8 @@
-console.log("Your code comes here!!!!");
-console.log("asjdh");
-console.log("Your code comes here");
+const a: string = "COde";
+const c: number = 1;
+
+const b = (value: string) => {
+  console.log(value);
+};
+
+b(a);
